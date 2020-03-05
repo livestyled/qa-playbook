@@ -1,9 +1,7 @@
 # Getting started
 
-## Laptop Setup
-
 ### Instructions
-Get hold of the following tools and install to device
+Let's start by getting your new device set up with the correct tools and accounts
 
 - 1Password (https://1password.com/?gclid=EAIaIQobChMIwrX_qZuD6AIVj0TTCh3gNwoqEAAYASAAEgJxafD_BwE&gclsrc=aw.ds)
 - Postman (https://www.postman.com/)
@@ -20,7 +18,7 @@ Get hold of the following tools and install to device
 
 
 ## CMS 
-- V2 BAckstage (http://admin-staging.livestyled.com/admin/login)
+- V2 Backstage (http://admin-staging.livestyled.com/admin/login)
 - LS API Doc (http://api-staging.livestyled.com/api/doc)
 - V1 Backstage (https://staging-bstage.concertlive.com/login)
 
