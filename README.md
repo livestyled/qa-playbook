@@ -19,7 +19,7 @@ The QA team looks after the quality of all services and products provided by Liv
 | Name  | Info |
 | ------------- | ------------- |
 | Kartik Patel  | 󠁮󠁧🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 |
-| Amuy Keane  | 🇬🇧 |
+| Amy Keane  | 🇬🇧 |
 | Sandeep Padda | 🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 |
 | Pallavi Sompurkar  | 🇮🇳 |
 | Senior QA  | On hire! |
