@@ -12,22 +12,19 @@ Let's start by getting your new device set up with the correct tools and account
 
 # Usefull Accounts & Links 
 
-## Work Admin 
+### Work Admin 
 - QA Jira Board (https://livestyled.atlassian.net/secure/RapidBoard.jspa?rapidView=93&projectKey=LSN)
 - LS Confluence (https://livestyled.atlassian.net/wiki/spaces/2C/overview)
 
-
-## CMS 
+### CMS 
 - V2 Backstage (http://admin-staging.livestyled.com/admin/login)
 - LS API Doc (http://api-staging.livestyled.com/api/doc)
 - V1 Backstage (https://staging-bstage.concertlive.com/login)
 
-## Build Pipeline
+### Build Pipeline
 - BitRise (https://app.bitrise.io/dashboard/builds)
 - Circle CI (https://circleci.com/dashboard)
 
-
-
-## Personal Admin 
+### Personal Admin 
 - Eployee Handbook (https://trello.com/b/Cw9qIuJe/employee-handbook)
 - Charlie HR https://livestyled.charliehr.com/
