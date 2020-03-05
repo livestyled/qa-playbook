@@ -1,5 +1,4 @@
-# QA-playbook
-All things QA @ LiveStyled 
+#All things QA @ LiveStyled 
 
 In the spirit of one of LiveStyled's core behaviours, "Communicate openly", we present to you the QA playbook, which aims to provide information about our QA team and how it operates.
 
